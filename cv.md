@@ -46,7 +46,7 @@ ___
 ___
 ## __Languages:__
 * English - Intermediate/Advanced - according to the online-test at [www.efset.org](https://www.efset.org/)
-![Test results](https://github.com/Mitya89/rsschool-cv/blob/gh-pages/English_test_results.jpg?raw=true)
+![Test results](English_test_results.jpg)
 
 * Ukrainian - Native
 * Russian - Native
