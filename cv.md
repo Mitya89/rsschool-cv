@@ -4,7 +4,7 @@ ___
 * __Location__: Kharkiv, Ukraine
 * __Phone__: +38(099)509 81 68
 * __Email__: mitya.melnik89@gmail.com
-* __GitHub__: Mitya89
+* __GitHub__: [Mitya89](https://github.com/Mitya89)
 ___
 ## __About me:__
 I work in area of wastewater treatment as process engineer, but IT-industry is also very interesting to me. That is why I decided to get new knowledge and to expand my skills in area of Javascript frontend development.
