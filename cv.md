@@ -16,3 +16,37 @@ ___
 * JavaScript Basics
 * Git/GitHub
 * VS Code
+___
+## __Code example:__
+___Task___: *Raiser to the degree. Create a flow that will output to console.log() the result of exponentiation of two variables. Variables can be of any type, but we will raise only numbers of type number or string, which contain a number. Otherwise, console.log() should report a mismatched data type.*
+___Code___:
+```javascript
+const firstItem = '5';
+const secondItem = 5;
+let exponent = firstItem ** secondItem;
+
+if (
+     typeof(firstItem) === "string" || typeof(firstItem) === "number" 
+     && typeof(secondItem) === "number" || typeof(secondItem) === "string"
+     && (exponent === exponent)
+) {
+     console.log(exponent);
+} else {
+     console.log("Несоответствующий тип данных");
+}
+```
+___
+## __Experience:__
+___
+## __Education:__
+* __University__: Kharkiv National University of Urban Economy, major
+* __Courses__:
+     * Fundamentals of software testing on the [QATestLab](https://en.training.qatestlab.com/) (completed)
+     * RS Schools Course "JavaScript/Front-end. Stage 0"(in progress)
+___
+## __Languages:__
+* English - Intermediate/Advanced - according to the online-test at [www.efset.org](https://www.efset.org/)
+![Test results](https://github.com/Mitya89/rsschool-cv/blob/gh-pages/English_test_results.jpg?raw=true)
+
+* Ukrainian - Native
+* Russian - Native
